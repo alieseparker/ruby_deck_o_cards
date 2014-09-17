@@ -11,4 +11,7 @@ As a player of a card game,
 I want a deck of 52 cards
 So that I can play a standard game of cards.
 
+deck is filled with cards consisting of
+value and suit
+
 ==============Sources:=================
